@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Hits-of-Code](https://hitsofcode.com/github/Nathan03nable/msp-rmm-server?branch=integration)](https://hitsofcode.com/github/Nathan03nable/msp-rmm-server/view?branch=integration)
 <!--
 **Nathan03nable/Nathan03nable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
